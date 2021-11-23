@@ -1,5 +1,4 @@
 console.log('DOM started');
-
 const weatherForm = document.querySelector('form')
 const searchInput = document.querySelector('input')
 const messageOne = document.getElementById('message-one');
